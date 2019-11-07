@@ -3,7 +3,7 @@
 
 - See details in "Balance-Robot-Lab.pdf".
 
-# Folder Structures in "Codes/" Folder
+# Folder Structures in "Codes/"
 bin/			             : Binaries folder
 
 balanceebot/balanceebot.c/.h : Main setup and threads
